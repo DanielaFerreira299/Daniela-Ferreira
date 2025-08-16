@@ -8,9 +8,9 @@
 ---
 
 ##  Sobre mim
- 
+- 🏷️ Meu nome é Daniela Ferreira
+- 🎶 Musicista
 - 💻 Estudante de Inteligencia Artificial (SENAI FATESG)  
-- 💻 Cursando gestão empresarial e emprendedorismo
 - 💻 Programando em Python
 
 
@@ -33,10 +33,6 @@
 **Tecnologias e ferramentas:**  
 Python | Pandas | Git | GitHub | SQL
 
-**Projetos em destaque:**  
-- 🤖 Chatbot com Processamento de Linguagem Natural  
-- 📊 Análise de dados para insights estratégicos  
-- 🧠 Modelos de aprendizado supervisionado e não supervisionado  
 
 📬 **Contato:**  
 Email: ferreiradany299@gmail.com
