@@ -1,9 +1,5 @@
 <h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Willgnner-Santos&show_icons=true&theme=dracula" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willgnner-Santos&layout=compact&theme=dracula" width="350"/>
-</p>
 
 ---
 
