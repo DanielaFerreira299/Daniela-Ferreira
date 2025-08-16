@@ -44,5 +44,4 @@ Email: ferreiradany299@gmail.com
 ---
 <p align="center">
   <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
-  Veja meus projetos e fique à vontade para entrar em contato!
 </p># Daniela-Ferreira
